@@ -1,4 +1,6 @@
-  # Creative Bakery landing page - [DEMO LINK](https://tania-troshchuk.github.io/Creative-Bakery-landing/).
+  # Creative Bakery landing page
+  
+  Creative Bakery landing page - [DEMO LINK](https://tania-troshchuk.github.io/Creative-Bakery-landing/).
   
   This is the landing page of a bakery that creates wholesome confectionery products with unusual, sophisticated tastes. The landing page contains brief information about some of the most popular confectionery products with the possibility to order them. The website also has small statistics on the Creative Bakery activity and a complete list of available contacts. The landing page is intuitive and easy for the user to interact with the product so that the user can easily place an order without any complications.
   
